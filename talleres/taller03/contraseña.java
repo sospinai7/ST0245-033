@@ -1,11 +1,4 @@
-public class Taller3 {
-        
-        
-    /**
-    *
-    * El método combinations es un auxiliar del proceso 
-    * @param s es la cadena a permutar
-    */
+public class contraseña {
     public static void combination(String s) { 
         combinationsAux("", s); 
         }
