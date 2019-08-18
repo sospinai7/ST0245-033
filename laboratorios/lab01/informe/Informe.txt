@@ -1,0 +1,15 @@
+informe - Laboratorio N1
+
+viernes 16 de agosto de 2019
+Se repartieron los puntos; la repartición fue:
+Santiago: 1.2, 2.2, 3.1--3.4--3.5--3.6, 4.2--4.5--4.8--4.11
+Antoine: 1.1, 2.1, 3.2--3.3--3.5--3.6, 4.3--4.6--4.10--4.12
+
+Sábado 17 de agosto de 2019
+Antoine realizo los puntos: 1.1, 2.1, 3.2--3.3
+Santiago realizo los puntos: 1.2, 2.2, 3.1--3.4
+
+Domingo 18 de agosto de 2019
+Antoine corrección del punto: 1.2(Santiago), se corrigió un error en el código.
+Antoine realizo los puntos: 4.3--4.6--4.10--4.12 [opc]: 4.9--6
+Santiago realizo los puntos: 4.2--4.5--4.8--4.11 [opc]: 4.1—4.7 
