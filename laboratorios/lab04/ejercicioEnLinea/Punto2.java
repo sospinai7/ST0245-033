@@ -30,9 +30,9 @@ public class Punto2{
             System.out.print(nodo.value + "\t");
         }
     }
-
 }
-    class Node {
+
+class Node {
       int value;
       Node left;
       Node right;
@@ -41,11 +41,11 @@ public class Punto2{
           left = null;
           right = null;
       }
+}
 
-    }
-    class Tree {
-      Node node;
-      Tree(int value){
+class Tree {
+    Node node;
+    Tree(int value){
         node = new Node(value);
     }
 
